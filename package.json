@@ -1,0 +1,37 @@
+{
+  "_args": [
+    [
+      "djs-commands@1.2.2",
+      "C:\\Users\\ASUS\\Desktop\\MoonUP\\MoonUP"
+    ]
+  ],
+  "_from": "djs-commands@1.2.2",
+  "_id": "djs-commands@1.2.2",
+  "_inBundle": false,
+  "_integrity": "sha512-L4J9lViEgAp7Yb7GoukwOJFvO42bBf5r8htkQZ4CTasKrK7sI1vyB0R5RfUJnwq+5vHBzdmwyJjW8LXJYAxuFw==",
+  "_location": "/djs-commands",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "djs-commands@1.2.2",
+    "name": "djs-commands",
+    "escapedName": "djs-commands",
+    "rawSpec": "1.2.2",
+    "saveSpec": null,
+    "fetchSpec": "1.2.2"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/djs-commands/-/djs-commands-1.2.2.tgz",
+  "_spec": "1.2.2",
+  "_where": "C:\\Users\\ASUS\\Desktop\\MoonUP\\MoonUP",
+  "dependencies": {
+    "fs": "0.0.1-security"
+  },
+  "description": "An NPM Package to make creating new Discord.JS bots efficient",
+  "main": "index.js",
+  "name": "djs-commands",
+  "version": "1.2.2"
+}
